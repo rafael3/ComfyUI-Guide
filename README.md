@@ -118,15 +118,6 @@ No. It provides structure. Use it alongside forums and videos; it will make them
 Rafael Hernández is an art director with over twenty‑five years’  commercial experience. His work spans London, and Shanghai across advertising, publishing, and digital media.
 LinkedIn: [linkedin.com/in/rhernandez2](https://www.linkedin.com/in/rhernandez2)  
 
----
-
-### Visual Highlights
-
-![Example ComfyUI Workflow Diagram](images/example_workflow.png)  
-*A redesigned node layout from the ComfyUI Handbook, optimised for print readability.*
-
-![Book Cover](images/comfyui_handbook_cover.png)  
-*First edition, October 2025.*
 
 ---
 
