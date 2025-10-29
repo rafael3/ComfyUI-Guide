@@ -18,9 +18,25 @@ ISBN: 978‑84‑09‑77927‑7
 
 ---
 
+<a href="https://a.co/d/eockxat" target="_blank" rel="noopener">
+  <img 
+    src="https://github.com/user-attachments/assets/3c196310-7bc1-403a-8bc5-7635dc964b59" 
+    alt="ComfyUI Handbook cover showing AI workflows, SDXL node layouts, ControlNet pipelines, and creative examples from the printed guide" 
+    title="ComfyUI Handbook – AI Workflow Design Reference" 
+    loading="lazy" 
+    style="max-width:100%; height:auto; border:0;" 
+  />
+</a>
+<p>
+  <em>
+    Printed edition of the <strong>ComfyUI Handbook</strong> – includes step-by-step structured node-based workflows, image, music, speech, animation, video, 3D examples, ControlNet guidance, and over 300 tips from beginner to expert for AI content edit and generation.
+  </em>
+</p>
+
+
 ### Why a Book Still Matters?
 
-ComfyUI has grown into one of the most flexible tools for AI‑based image generation, yet it remains one of the least clearly explained. Most resources assume prior experience with diffusion models or programming. The *ComfyUI Handbook* was written to close that gap — structured, illustrated, and edited for visual thinkers.
+ComfyUI has grown into one of the most flexible tools for AI‑based content generation, yet it remains one of the least clearly explained. Most resources assume prior experience with diffusion models or programming. The *ComfyUI Handbook* was written to close that gap — structured, illustrated, and edited for visual thinkers.
 
 It transforms the scattered online ecosystem into a single, coherent map of how ComfyUI actually works.
 
