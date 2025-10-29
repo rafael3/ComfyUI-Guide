@@ -126,6 +126,22 @@ If **you**, your **product**, or your **company** adds something valuable to the
 
 Contributions might include tools, custom nodes, workflows, educational material, or community resources that help expand and improve the ComfyUI ecosystem.
 
+
+<a href="https://a.co/d/eockxat" target="_blank" rel="noopener">
+  <img 
+    src="https://github.com/user-attachments/assets/8160bf58-26b4-4e84-8b5a-ca6df18533dc" 
+    alt="ComfyUI Handbook showing alternate print layout view of node-based workflows and visual guides" 
+    title="ComfyUI Handbook – Print Layout Sample"
+    loading="lazy" 
+    style="max-width:100%; height:auto; border:0; margin-top:2rem;"
+  />
+</a>
+<p>
+  <em>
+    ComfyUI Handbook – alternate view. Designed for print clarity with full-page node diagrams and practical workflow layouts.
+  </em>
+</p>
+
 ---
 
 © 2025 Rafael Hernández. All rights reserved.  
